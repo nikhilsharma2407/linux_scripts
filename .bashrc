@@ -141,7 +141,7 @@ alias prev="cd /home/nikhil/Desktop/gfg/archive/batch-47"
 PATH=$PATH:/home/nikhil/Downloads/node-v20.14.0-linux-x64/bin
 alias gfg="cd /home/nikhil/Desktop/gfg/current"
 alias ns='npm start;'alias zss='souce ~/.zshrc;'
-alias cpbash='cp ~/.bashrc ~/Desktop/scripts;'
+alias cpbash='cp ~/.bashrc ~/.bash_profile ~/Desktop/scripts;'
 alias sc='cd ~/Desktop/scripts'
 alias gst='git status'
 alias gco='git checkout'

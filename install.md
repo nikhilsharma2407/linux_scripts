@@ -19,3 +19,9 @@ TAB: menu-complete
 	rm -fr ~/snap
 	sudo apt-mark hold snapd
 ```
+
+sudo apt install gnome-shell-extension-gpaste
+sudo apt install xserver-xorg-input-synaptics
+<!-- natural scrolling -->
+synclient VertScrollDelta=-76
+synclient LockedDragTimeout=300
